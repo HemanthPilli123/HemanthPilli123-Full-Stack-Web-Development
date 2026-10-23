@@ -1,0 +1,58 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "icon": "laptop",
+    "color": "#3b82f6",
+    "description": "Laptops, phones, headphones, chargers, tablets, smartwatches, and calculators"
+  },
+  {
+    "id": "books-stationery",
+    "name": "Books and stationery",
+    "icon": "book",
+    "color": "#8b5cf6",
+    "description": "Textbooks, notebooks, binders, scientific calculators, stationery pouches, and art supplies"
+  },
+  {
+    "id": "bags-accessories",
+    "name": "Bags and accessories",
+    "icon": "briefcase",
+    "color": "#ec4899",
+    "description": "Backpacks, tote bags, laptop sleeves, wallets, purses, glasses, and jewelry"
+  },
+  {
+    "id": "id-cards-docs",
+    "name": "Identity cards and documents",
+    "icon": "id-card",
+    "color": "#f59e0b",
+    "description": "Campus student IDs, driver's licenses, passports, class folders, and keycards"
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "icon": "shirt",
+    "color": "#10b981",
+    "description": "Jackets, hoodies, caps, scarves, athletic wear, lab coats, and gloves"
+  },
+  {
+    "id": "keys",
+    "name": "Keys",
+    "icon": "key",
+    "color": "#f97316",
+    "description": "Dorm keys, car fobs, locker keys, bicycle lock keys, and lanyards"
+  },
+  {
+    "id": "bottles-containers",
+    "name": "Water bottles and containers",
+    "icon": "cup",
+    "color": "#06b6d4",
+    "description": "Insulated flasks, reusable water bottles, lunchboxes, thermos, and tumblers"
+  },
+  {
+    "id": "other",
+    "name": "Other",
+    "icon": "box",
+    "color": "#64748b",
+    "description": "Umbrellas, sports gear, musical instruments, medical items, and miscellaneous items"
+  }
+]
